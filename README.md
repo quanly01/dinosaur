@@ -4,4 +4,4 @@ This is my pizza store
 
 Let's order.
 
-The part in deploy section doesn't work because herokuapp required description to open server
+My dinosaur deployment in environments section doesn't work because herokuapp required description to open server
